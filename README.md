@@ -4,12 +4,18 @@
 
 Working with Streamlit is simple. First you sprinkle a few Streamlit commands into a normal Python script, then you run it with streamlit run:
 
+```shell
 streamlit run your_script.py [-- script args]
+```
 
 ## Running
 
-$ python -m streamlit run your_script.py
+```shell
+python -m streamlit run your_script.py
+```
 
-# is equivalent to:
+is equivalent to:
 
-$ streamlit run your_script.py
+```shell
+streamlit run your_script.py
+```
